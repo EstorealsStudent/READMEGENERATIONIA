@@ -153,3 +153,5 @@ Desarrollamos soluciones personalizadas de optimización y ciberseguridad para e
 
 ---
 > Para más información revisa nuestra documentación en: [Folleto_de_la_empresa](https://docs.google.com/document/d/13Y2Jr68-xcsJxbS1nzUGuPG9umeYAFUy/edit)
+
+> Para más información revisa nuestra documentación en: [Puedes leer el articulo mediante el link](https://github.com/EstorealsStudent/READMEGENERATIONIA/blob/main/Articulo-ES-ENG.pdf)
