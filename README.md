@@ -1,6 +1,6 @@
 # 📘 NetGuard Pro — Documentación de Lanzamiento
 
-## Introducción
+##  Introducción
 Bienvenido a la guía oficial de **NetGuard Pro**, el software de redes desarrollado por **NetGuard Solutions** para optimizar, proteger y escalar fácilmente la infraestructura de red de empresas de todos los tamaños. Esta documentación está diseñada para ser clara y accesible, incluso si no tienes mucha experiencia técnica.
 
 ---
@@ -37,7 +37,15 @@ Desarrollamos soluciones personalizadas de optimización y ciberseguridad para e
 
 ---
 
-#  NetGuard Pro — Hoja de Especificaciones
+# NetGuard Pro — Hoja de Especificaciones
+
+## NetGuard Pro – Hoja de Especificaciones del Producto
+- **Nombre del Producto:** NetGuard Pro
+- **Versión:** 1.0
+- **Fecha de Lanzamiento:** [Insertar Fecha]
+- **Desarrollador:** NetGuard Solutions
+- **Descripción del Producto:** NetGuard Pro es una solución de software para redes a nivel empresarial diseñada para optimizar el rendimiento de las redes, mejorar la seguridad y ofrecer una escalabilidad sin interrupciones para empresas de todos los tamaños.
+
 
 ## Información General
 - **Nombre del Producto:** NetGuard Pro
