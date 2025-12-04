@@ -2,6 +2,15 @@
 
 ![NetGuard Pro Banner](./Recursos/image.png)
 
+## Índice
+- [Introducción](#introducción)
+- [Características principales](#características-principales)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Configuración avanzada](#configuración-avanzada)
+- [Preguntas frecuentes](#preguntas-frecuentes)
+- [Licencia](#licencia)
+
 ##  Introducción
 Bienvenido a la guía oficial de **NetGuard Pro**, el software de redes desarrollado por **NetGuard Solutions** para optimizar, proteger y escalar fácilmente la infraestructura de red de empresas de todos los tamaños. Esta documentación está diseñada para ser clara y accesible, incluso si no tienes mucha experiencia técnica.
 
