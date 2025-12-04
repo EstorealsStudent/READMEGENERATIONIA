@@ -1,5 +1,7 @@
 # 📘 NetGuard Pro — Documentación de Lanzamiento
 
+![NetGuard Pro Banner](./Recursos/image.png)
+
 ##  Introducción
 Bienvenido a la guía oficial de **NetGuard Pro**, el software de redes desarrollado por **NetGuard Solutions** para optimizar, proteger y escalar fácilmente la infraestructura de red de empresas de todos los tamaños. Esta documentación está diseñada para ser clara y accesible, incluso si no tienes mucha experiencia técnica.
 
@@ -149,3 +151,5 @@ Desarrollamos soluciones personalizadas de optimización y ciberseguridad para e
 - **Teléfono:** +1‑800‑555‑1234
 - **LinkedIn:** NetGuard Solutions
 
+---
+> Para más información revisa nuestra documentación en: [Folleto_de_la_empresa](https://docs.google.com/document/d/13Y2Jr68-xcsJxbS1nzUGuPG9umeYAFUy/edit)
